@@ -1,4 +1,23 @@
 {
-  "id": 1,
-  "title": "Post 1"
+   "contractors": [
+      {
+          "name": "naveesfsdfdsfsfsd33",
+          "tel": "032342242323",
+          "email": "sales@dairysolutionz.co.nz",
+          "services": [
+              "service1",
+              "service2",
+              "service3"
+          ],
+          "id": "2250c7c864c73b8243050f976e5f6e65"
+     }
+   ],
+  "services":[
+      "service1",
+      "service2",
+      "service3",
+      "service4",
+      "service5",
+      "service6"
+  ]
 }
